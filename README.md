@@ -40,15 +40,16 @@ Cet atelier est conçu pour vous aider à développer des compétences en sécur
 📂 decouverte-keepass/
 |
 ├── 📂 Documents/
-│   ├── Guide_Installation_KeePass.pdf
-│   └── Guide_Utilisation_KeePass.pdf
+│   ├── Shayma_Candice_TP_04_Utilisation_Un_Gestionnaire_de_Mots_de_passe_KeePass_.docx
+│   └── Shayma_Candice_TP_04_Utilisation_Un_Gestionnaire_de_Mots_de_passe_KeePass_.pdf
 |
 ├── 📂 image/
 │   └── background.png
 |
 ├── 📂 Installation/
-│   ├── Guide_Installation_KeePass.pdf
-│   └── Guide_Utilisation_KeePass.pdf
+│   ├── 📂 KeePass-2.54
+│   │── 📂 KeePass-2.54-French-b
+│   └── Base de données.kdbx
 |
 └── README.md
 
